@@ -1,4 +1,4 @@
-const cacheName = "Irregular Devs-GoodNight, Mare-0.01";
+const cacheName = "Irregular Devs-GoodNight, Mare-1";
 const contentToCache = [
     "Build/Goodnight-Mare-Web-Build.loader.js",
     "Build/Goodnight-Mare-Web-Build.framework.js",
